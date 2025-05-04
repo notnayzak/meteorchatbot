@@ -1,0 +1,110 @@
+who are you
+who am i talking to
+who is this
+who’s there
+what's your name
+what is your name
+may i know your name
+tell me your name
+identify yourself
+are you a human
+are you a bot
+hi
+hello
+hey
+hiya
+yo
+greetings
+good morning
+good afternoon
+good evening
+sup
+what's up
+howdy
+how are you
+how r u
+how're you doing
+how is it going
+how’s everything
+are you okay
+yes
+yeah
+y
+no
+nope
+ok
+okay
+k
+cool
+nice
+awesome
+great
+wow
+bruh
+thanks
+thank you
+that helped a lot
+appreciate it
+how can i contact support?
+what's your customer service email?
+can i speak to a human?
+do you have live chat?
+customer support number
+help center link
+i need help with my order
+where is my order
+track my order
+my order hasn’t arrived
+i think my package is lost
+my package says delivered but i didn't get it
+i received the wrong item
+i received a damaged item
+the product is broken
+my order is missing items
+i want to return my order
+how do i start a return?
+what is your return policy?
+how long do returns take?
+can i exchange my item?
+i want a refund
+how do i request a refund?
+how long do refunds take?
+why haven't i received my refund?
+how long does shipping take?
+what are your shipping options?
+do you offer next-day delivery?
+can i get free shipping?
+do you ship internationally?
+how much is international shipping?
+do you ship to egypt
+ship to egypt
+in egypt
+can i change my shipping address?
+i entered the wrong address
+can i change my order?
+can i cancel my order?
+is it too late to cancel?
+do you offer discounts?
+do you have any promo codes?
+how can i use my coupon code?
+why didn’t my discount apply?
+how do i create an account?
+i can’t log in
+i forgot my password
+how do i reset my password?
+how do i update my account info?
+is this item in stock?
+when will this item be back in stock?
+can i get notified when it's back in stock?
+do you take pre-orders?
+what payment methods do you accept?
+do you accept paypal?
+can i pay with a gift card?
+is it safe to pay online?
+how do i contact the seller?
+how can i report an issue?
+where is your company located?
+bye
+goodbye
+see you
+catch you later
